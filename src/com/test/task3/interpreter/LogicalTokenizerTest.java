@@ -1,6 +1,6 @@
-package com.test.task3.tokenizer;
+package com.test.task3.interpreter;
 
-import com.epam.task3.tokenizer.LogicalTokenizer;
+import com.epam.task3.interpreter.LogicalTokenizer;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

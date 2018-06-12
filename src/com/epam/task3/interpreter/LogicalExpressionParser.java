@@ -1,7 +1,6 @@
 package com.epam.task3.interpreter;
 
 import com.epam.task3.exception.LogicalExpressionException;
-import com.epam.task3.tokenizer.LogicalTokenizer;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

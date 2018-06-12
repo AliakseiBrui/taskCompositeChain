@@ -1,4 +1,4 @@
-package com.epam.task3.tokenizer;
+package com.epam.task3.interpreter;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
