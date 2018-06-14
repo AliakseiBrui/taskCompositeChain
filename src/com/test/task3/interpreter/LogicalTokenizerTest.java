@@ -32,6 +32,7 @@ public class LogicalTokenizerTest {
     public void tokenizeTest(){
         List<String> expected = List.of("(","28","&","4",")","|","9","^","~","2",">>","4");
         List<String> actual = new ArrayList<>();
+        
         while(logicalTokenizer.hasToken()){
             actual.add(logicalTokenizer.nextToken());
         }

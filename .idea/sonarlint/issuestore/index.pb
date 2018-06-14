@@ -29,12 +29,8 @@ c
 3src/com/test/task3/creator/TextLeafCreatorTest.java,2\7\270a8bc230ab84abacd99f59c62496f98dfb2cdb
 ]
 -src/com/test/task3/action/TextActionTest.java,9\1\916edc00e59e0bd4d9025d8c86daa91429af9fb8
-b
-2src/com/epam/task3/tokenizer/LogicalTokenizer.java,f\c\fcae6dff3c77a9e625cc795189c33e64484fc78f
 \
 ,src/com/epam/task3/composite/SymbolType.java,6\d\6d11b22a6623f76ac6d50bc80d81ef7c54a8fa35
-f
-6src/com/test/task3/tokenizer/LogicalTokenizerTest.java,3\4\34eb0cf7838224073f67f43936bf15212a317fc8
 X
 (src/com/epam/task3/composite/Symbol.java,1\4\14227fa3a892ec33eb29820e4994fb20a0242ff8
 t
@@ -51,3 +47,9 @@ k
 ;src/com/epam/task3/interpreter/LogicalExpressionParser.java,8\7\874497d5989383789766ca64ea90765393e9feba
 ^
 .src/com/epam/task3/parserchain/TextParser.java,5\5\55b968451114a769eb3ffb46384a608361028480
+d
+4src/com/epam/task3/interpreter/LogicalTokenizer.java,2\7\27e83b39e1ddf75a599bfb8b79451eb1f4373cf6
+7
+all.log,3\1\31b5fa9bf4d6a567d4ef148594e61ab7857139c3
+h
+8src/com/test/task3/interpreter/LogicalTokenizerTest.java,3\4\3406984a970d43afe7c0cc18f8b2caccb2c79251
